@@ -30,5 +30,10 @@ namespace iniciaciando_a_git
           
             panel2.BringToFront();
         }
+
+        private void BtnComoEstas_Click(object sender, EventArgs e)
+        {
+            panel3.BringToFront();
+        }
     }
 }
